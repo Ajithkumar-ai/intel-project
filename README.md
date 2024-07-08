@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-Dependencies:
+5.Dependencies:
 
 Streamlit
 
@@ -51,7 +51,7 @@ Transformers (pipeline)
 
 spacy
 
-Contributing:
+6.Contributing:
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your proposed changes.
 
