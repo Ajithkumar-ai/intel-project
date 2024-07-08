@@ -18,6 +18,7 @@ Results: View extracted text, named entities, summary, and classification result
 
 Installation:
 To run the application locally:
+
 1.Clone this repository:
 git clone https://github.com/your_username/your_repository.git
 
