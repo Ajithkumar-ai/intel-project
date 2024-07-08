@@ -1,0 +1,54 @@
+
+
+# Streamlit
+
+ streamlit==0.92.0
+
+# PyMuPDF
+  PyMuPDF==1.19.0
+
+# Python Imaging Library (PIL)
+ Pillow==8.3.1
+
+# Tesseract OCR
+ pytesseract==0.3.8
+
+# Transformers from Hugging Face
+  transformers==4.9.2
+
+# spaCy
+ spacy==3.1.3
+
+# pathlib (included in Python standard library)
+ pathlib
+# No specific version needed
+
+# base64 (included in Python standard library)
+ base64
+# No specific version needed
+
+
+# Regular Expression operations (included in Python standard library)
+ re
+# No specific version needed
+
+
+
+
+#Explanation :
+
+#Streamlit (streamlit==0.92.0): Required for building interactive web applications.
+
+#PyMuPDF (PyMuPDF==1.19.0): Provides PDF manipulation capabilities.
+
+#Tesseract OCR (pytesseract==0.3.8): For text extraction from images using OCR.
+
+#Pillow (Pillow==8.3.1): Python Imaging Library for image processing.
+
+#Transformers (transformers==4.9.2): Provides state-of-the-art natural language processing models.
+
+#spaCy (spacy==3.1.3): Natural language processing library.
+
+#spaCy English model (spacy-lookups-data==1.0.2): Specific language data required by spaCy for English.
+
+#Python standard library: pathlib, base64, and re are included by default in Python installations.
